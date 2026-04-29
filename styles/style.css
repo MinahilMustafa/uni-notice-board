@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color: #003366;
+  background-color: #036;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -31,7 +31,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #003366;
+  background-color: #036;
 }
 
 main {
@@ -40,14 +40,14 @@ main {
   margin: 0 auto;
   background-color: #fff;
   min-height: 400px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgb(0 0 0 / 10%);
   margin-top: 20px;
 }
 
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #003366;
+  background-color: #036;
   color: #fff;
   margin-top: 40px;
 }
